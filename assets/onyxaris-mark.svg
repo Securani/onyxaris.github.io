@@ -1,0 +1,24 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Onyxaris mark</title>
+  <desc id="desc">Minimal angular transparent mark for Onyxaris.</desc>
+  <defs>
+    <linearGradient id="tone" x1="156" y1="126" x2="352" y2="330" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#D7A655"/>
+      <stop offset="100%" stop-color="#8A572A"/>
+    </linearGradient>
+  </defs>
+
+  <path d="M256 108L364 148L404 256L364 364L256 404L148 364L108 256L148 148L256 108Z" stroke="url(#tone)" stroke-width="10" stroke-linejoin="round"/>
+  <path d="M256 162L326 186L350 256L326 326L256 350L186 326L162 256L186 186L256 162Z" stroke="url(#tone)" stroke-width="8" stroke-linejoin="round" opacity="0.92"/>
+  <path d="M256 214L286 226L298 256L286 286L256 298L226 286L214 256L226 226L256 214Z" fill="#9E6330"/>
+
+  <path d="M256 108V214" stroke="url(#tone)" stroke-width="8" stroke-linecap="round"/>
+  <path d="M256 298V404" stroke="url(#tone)" stroke-width="8" stroke-linecap="round"/>
+  <path d="M108 256H214" stroke="url(#tone)" stroke-width="8" stroke-linecap="round"/>
+  <path d="M298 256H404" stroke="url(#tone)" stroke-width="8" stroke-linecap="round"/>
+
+  <path d="M148 148L226 226" stroke="url(#tone)" stroke-width="7" stroke-linecap="round"/>
+  <path d="M286 286L364 364" stroke="url(#tone)" stroke-width="7" stroke-linecap="round"/>
+  <path d="M364 148L286 226" stroke="url(#tone)" stroke-width="7" stroke-linecap="round"/>
+  <path d="M226 286L148 364" stroke="url(#tone)" stroke-width="7" stroke-linecap="round"/>
+</svg>
